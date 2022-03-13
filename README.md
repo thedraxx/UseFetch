@@ -17,6 +17,16 @@ Custom Hooks for consume API (For everyone)
 ## Getting Started
 > The custom Hooks uses the Pokemon API as an example, but you can use any API you want.
 
+## Prerequisites
+
+  You need to use npm.
+
+    npm
+
+    npm install npm@latest -g
+
+
+
 ## ✉️ Contact
 
 E-mail: cerrano.francisco22@gmail.com 
